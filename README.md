@@ -1,5 +1,6 @@
 # Journey-Planner-for-Izmir-Public-Transportation-
-The Dijkstra Algorithm was used to obtaine the shortest path.
-In this way, user can provide shortest way to reach anywhere using by the Journey Planner.
-There are lots of stop identifications in Stop.txt, typ 2 stops (Source and Destination Stops) id for input. 
-
+Java program that finds shortest way of 2 stops in Izmir.  
+The Dijkstra Algorithm was used to obtaine the shortest way.   
+All the stop identifications were included in Stop.txt  
+  
+Give the start and stop identifications as input. The shortest way will be presented.
